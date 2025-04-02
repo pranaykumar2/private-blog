@@ -5,7 +5,10 @@ A full-stack blog platform that enables users to create, read, update, and delet
 **Developed by:** pranaykumar2  
 **Last Updated:** April 2, 2025
 
-![Blog Application Screenshot](https://via.placeholder.com/800x400?text=Blog+Application)
+![Blog's Desktop View Application Screenshot](desktop-view.png)
+
+
+![Blog's Mobile View Application Screenshot](mobile-view.png)
 
 ## Table of Contents
 
